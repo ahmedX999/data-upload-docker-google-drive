@@ -16,5 +16,5 @@ This project provides a serverless solution using AWS Lambda and Docker to enabl
 - **Serverless**: Runs on AWS Lambda for efficient and scalable processing.
 - **Dockerized**: Encapsulates the function and dependencies in a Docker container.
 - **Google Drive Integration**: Facilitates easy connection and data upload from Google Drive.
-- 
+  
   
